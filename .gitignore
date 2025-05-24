@@ -174,3 +174,8 @@ cython_debug/
 .pypirc
 
 datasets/
+models/
+
+
+.pptx
+.DS_Store
